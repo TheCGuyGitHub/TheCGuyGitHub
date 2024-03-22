@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on **Nothing** 
 
-- 🌱 I am learning **Java, Skript-Lang, a little bit SQL**
+- 🌱 I am learning **Java, Skript-Lang, Lua, Phyton**
 
 - 👨‍💻 The most of my projects can be found here **[https://github.com/TheCGuyGitHub](https://github.com/TheCGuyGitHub)**
 
