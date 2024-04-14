@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F728&random=false&width=435&lines=Minecraft+Developer;Skript-Lang%2C+Java%2C+Python;skydinse.net%2Fdiscord)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I am Christian</h1>
 <h3 align="center">I am Developer, that is learning Skript!</h3>
 
