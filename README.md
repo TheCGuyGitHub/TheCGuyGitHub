@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F728&random=false&width=435&lines=Minecraft+Developer;Skript-Lang%2C+Java%2C+Python;skydinse.net%2Fdiscord" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Skript-Lang%2C+Java%2C+Python%2C+JS%2C+Kotlin%2C+Lua;Minecraft+Developer;dsc.gg%2Fthecguy" alt="Typing SVG" /></a>
 </div>
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I am currently working on **Nothing** 
 
-- 🌱 I am learning **Java, Skript-Lang, Lua, Phyton**
+- 🌱 I am learning **Java, Skript-Lang, Lua, Phyton, Kotlin, JS**
 
 - 👨‍💻 The most of my projects can be found here **[https://github.com/TheCGuyGitHub](https://github.com/TheCGuyGitHub)**
 
