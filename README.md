@@ -10,7 +10,7 @@
 
 - 🔭 I am currently working on **Nothing** 
 
-- 🌱 I am learning **Java, Skript-Lang, Lua, Phyton, Kotlin, JS**
+- 🌱 I am learning **Java, Skript-Lang, Lua, Pyton, Kotlin, JS**
 
 - 👨‍💻 The most of my projects can be found here **[https://github.com/TheCGuyGitHub](https://github.com/TheCGuyGitHub)**
 
