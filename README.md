@@ -10,7 +10,7 @@
 
 - 🔭 I am currently working on **[VulpesCloud](https://github.com/VulpesCloud)** 
 
-- 🌱 I am learning **Java, Skript-Lang, Lua, Pyton, Kotlin, JS**
+- 🌱 I am learning **Kotlin, TS, Java, Skript-Lang, Lua, Pyton, JS**
 
 - 👨‍💻 The most of my projects can be found here **[https://github.com/TheCGuyGitHub](https://github.com/TheCGuyGitHub)**
 
